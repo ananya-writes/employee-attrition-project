@@ -1,6 +1,4 @@
-# employee-attrition-project
-
-# Major project:
+# Major project: 
 
 Problem statement chosen: Employee Attrition
 
